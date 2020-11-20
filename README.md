@@ -1,4 +1,4 @@
-### Hi there 👋
+### 嗨,您好 👋
 
 <!--
 **vnjohn/vnjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@
 <tr>
 <td valign="top" width="100%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/JasonkayZK/59ead22758ee823e48b558d3cff332f1" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️ <a href="https://github.com/vnjohn?tab=repositories" target="_blank">每周开发细目</a>
 
 <!-- code_time starts -->
 
